@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$pqDYTuh3GbsE/LI7yR/faug6N9seE7ZFCpno5tOyF/gpDYZaNCUoa",
+      "id": 1
+    },
+    {
+      "email": "li.bogdan44@gmail.com",
+      "password": "$2a$10$sPNXqMgYsOhfQtAXegJi2uHlLMXqaBw4FsowDCKGA50W3HPgENV.6",
+      "id": 2
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Сделать ДЗ",
+      "completed": false,
+      "date": "2024-10-08T14:44:18.825Z",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "title": "23",
+      "completed": false,
+      "date": "2024-10-18T04:29:47.538Z",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "131231",
+      "completed": false,
+      "date": "2024-10-18T04:29:59.724Z",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "title": "23123",
+      "completed": false,
+      "date": "2024-10-18T04:38:14.519Z",
+      "userId": 1,
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "My extension",
+    "version": "0.1",
+    "description": "Custom Starting Page in React",
+    "chrome_url_overrides": {
+      "newtab": "index.html"
+    },
+    "permissions": ["tabs", "storage"],
+    "browser_specific_settings": {
+      "gecko": {
+        "id": "your-extension-id@domain.com"
+      }
+    }
+  }
+  
