@@ -1,0 +1,61 @@
+{
+  "todos": [
+    {
+      "id": "as",
+      "title": "The task",
+      "completed": true,
+      "date": "19.09.2024",
+      "time": "19:00"
+    },
+    {
+      "id": "hd",
+      "title": "Products",
+      "completed": false,
+      "date": "12.09.2024",
+      "time": "17:00"
+    },
+    {
+      "id": "tr",
+      "title": "Create Project",
+      "completed": true,
+      "date": "18.09.2024",
+      "time": "09:00"
+    },
+    {
+      "id": "4dd6",
+      "title": "Task",
+      "completed": false,
+      "date": "6.8.2024",
+      "time": "13:19",
+      "task": "gmail"
+    },
+    {
+      "id": "7aaa",
+      "title": "Name",
+      "completed": false,
+      "date": "1.8.2024",
+      "time": "20:30"
+    },
+    {
+      "id": "b06e",
+      "title": "My email",
+      "completed": true,
+      "date": "1.8.2024",
+      "time": "20:30"
+    },
+    {
+      "id": "e513",
+      "title": "New task",
+      "completed": false,
+      "date": "2.8.2024",
+      "time": "18:40"
+    },
+    {
+      "id": "8e9f",
+      "title": "Задача",
+      "completed": false,
+      "date": "2.9.2024",
+      "time": "16:27"
+    }
+  ]
+}
